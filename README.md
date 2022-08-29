@@ -6,7 +6,9 @@
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/en_US)
 
 
-A popular .NET WebSocket Client
+A popular .NET WebSocket Client (with basic Atmosphere support)
+
+Based on project / fork here: https://github.com/Atmosphere/WebSocket4Net
 
 It is a completely new version which is base on SuperSocket 2.0 and dotnet core.
 This version is still in progress, so please don't use it in production for now.
